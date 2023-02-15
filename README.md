@@ -6,6 +6,9 @@
 
 In this project I created an interactive web app in React using functional programming. I this app user can cheak current / 7 day forcast of weather of all states on india by just selecting them form the drop down menu.
 
+## USER CAN ACCESS WEATHER APP FROM THE FOLLOWING LINK.
+   https://super-blancmange-885bce.netlify.app
+
 ## User stories
 
 **As a user, I would like to cheak weather of perticular state of all 7 days list.**
